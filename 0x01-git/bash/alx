@@ -1,1 +1,5 @@
+ corrections/0x01-git
 #!/bin/bash echo "ALX school is so cool"
+
+#!/bin/bash echo "ALX school is so cool"
+master
